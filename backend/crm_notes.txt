@@ -1,0 +1,1 @@
+CRM module placeholder. Future stages: pipeline, follow-ups, reporting.
