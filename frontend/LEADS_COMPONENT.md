@@ -1,0 +1,1 @@
+LeadTable component placeholder for upcoming dashboard implementation.
